@@ -1,8 +1,7 @@
-<h2>CHECK THIS OUT..!! 👇👇👇</h2>
+## CHECK THIS OUT..!! 👇👇👇
 
-<h4>USE A VPN IF DATA IS NOT FETCHED ... 🌍🌎 </h4>
+#### USE A VPN IF DATA IS NOT FETCHED ... 🌍🌎
 
-  [CLICK HERE..!!](https://abinflix.vercel.app/)
+[CLICK HERE..!!](https://abinflix.vercel.app/)
 
-
-
+![Website Mockup](https://github.com/ABIN-VARGHEXE/PORTFOLIO/raw/main/public/mockups/website%20mockup.jpg)
